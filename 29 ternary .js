@@ -1,1 +1,7 @@
-console.log(`You are a ${ Math.random()>0.9 ? "winner" : "loser" }`);
+a = condition ? valueIfTrue : valueIfFalse;
+
+if (condition) {
+	a = valueIfTrue;
+else {
+	a = valueIfFalse;
+}
