@@ -10,7 +10,7 @@ console.log(a);
 // console.log(a);
 
 
-// let puzzle = "msg";
-// a[puzzle] = "where does this go?";
-// a.puzzle = "is this in the same place?";
-// console.log(a)
+let puzzle = "msg";
+a[puzzle] = "where does this go?";
+a.puzzle = "is this in the same place?";
+console.log(a)
